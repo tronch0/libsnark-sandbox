@@ -1,2 +1,1 @@
 # libsnark-sandbox
-# libsnark-sandbox
